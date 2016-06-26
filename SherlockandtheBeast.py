@@ -1,7 +1,7 @@
 #!/bin/python3
 
 t = int(input().strip())
-for a0 in range(t):
+for x in range(t):
     n = int(input())
     z = n
     while (z%3 != 0):
